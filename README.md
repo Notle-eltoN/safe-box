@@ -12,20 +12,7 @@
 - **File management API** for upload, download, and delete operations.
 - **SQLite for development** and **PostgreSQL** for production environments.
 
-## Technologies Used
-
-- **Backend**: FastAPI (Python)
-- **Database**: SQLite (development), PostgreSQL (production)
-- **Encryption**: Cryptography library (AES)
-- **Authentication**: JSON Web Tokens (JWT)
-- **Dependency Management**: pip
-
 ## Installation Guide
-
-### Prerequisites
-
-1. **Python 3.10+** installed on your machine. You can download Python from [here](https://www.python.org/downloads/).
-2. **PostgreSQL** (for production) or **SQLite** (for development) installed.
 
 ### 1. Clone the Repository
 
